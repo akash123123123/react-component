@@ -24,7 +24,7 @@ class App extends Component{
       <div>
         <Navbar dark color="primary">
           <div className="container">
-              <NavbarBrand href="/"> Ristorante Con Fusion </NavbarBrand>
+              <NavbarBrand href="/"> Restorant food menu </NavbarBrand>
           </div>
         </Navbar>
 
